@@ -1,0 +1,38 @@
+body{
+    background: #2c3e50;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#container{
+    color: #d7dfe4;
+}
+.time{
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 40px;
+    font-weight: bold;
+}
+#button-div{
+    text-align: center;
+    margin-top: 30px;
+}
+.button{
+    color: white;
+    padding: 10px 40px;
+    margin:0px 20px;
+    cursor: pointer;
+}
+#start{
+    background: #1abc9c;
+}
+#stop{
+    background: #3492db;
+}
+#reset{
+    background: #e74c3c;
+}
